@@ -1,0 +1,10 @@
+{
+  "image_size": 32,
+  "classes": 2,
+  "embed_dim": 12,
+  "heads": 3,
+  "window": 4,
+  "steps": 3,
+  "learning_rate": 0.002,
+  "seed": 7
+}
